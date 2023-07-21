@@ -1,0 +1,35 @@
+a.png
+size:239,239
+filter:Linear,Linear
+pma:true
+Ellipse 1
+bounds:2,13,110,110
+offsets:2,2,114,114
+Ellipse 2 copy
+bounds:199,43,34,34
+offsets:2,2,38,38
+Ellipse 2
+bounds:199,43,34,34
+offsets:2,2,38,38
+Ellipse 2 copy 2
+bounds:182,79,66,52
+offsets:2,2,70,56
+rotate:90
+Ellipse 2 copy 3
+bounds:182,79,66,52
+offsets:2,2,70,56
+rotate:90
+Polygon 2
+bounds:2,125,130,112
+offsets:2,2,134,116
+Rectangle 1
+bounds:214,188,23,49
+Rectangle 1 copy
+bounds:134,147,83,22
+Rectangle 1 copy 2
+bounds:114,21,83,22
+Rectangle 1 copy 3
+bounds:114,45,78,66
+rotate:90
+Rectangle 1 copy 4
+bounds:134,171,78,66

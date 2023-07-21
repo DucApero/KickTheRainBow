@@ -1,0 +1,10 @@
+rigg.png
+size:150,150
+filter:Linear,Linear
+pma:true
+Ellipse 1
+bounds:2,38,110,110
+offsets:2,2,114,114
+Ellipse 2
+bounds:2,2,34,34
+offsets:2,2,38,38
