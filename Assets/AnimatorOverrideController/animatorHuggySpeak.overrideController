@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: animatorHuggySpeak
+  m_Controller: {fileID: 9100000, guid: 47dd091abadb49e4d9f7659d30ed8b5d, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b866c00a419f0984c8347d1f23542bd8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7349523d73174db4a90d4c739d426c44, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e1cb539169a730c4e816805866c00d4d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: da86707b40d5b4a4ca22caaf3099a300, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4eea9ce879703a94a9fe7fb296b14b41, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8353b3f8e0554524a92d387bab8dc6a2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3dced823b53f6b84c8191470fe6837c0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b8fe4f878f7a34141b0ba7ee99dff60a, type: 2}

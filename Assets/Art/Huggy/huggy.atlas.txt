@@ -1,0 +1,184 @@
+huggy.png
+size:2047,2047
+filter:Linear,Linear
+pma:true
+Ellipse 1 copy
+bounds:528,1546,794,180
+offsets:2,2,798,184
+Eye0
+bounds:1524,1911,134,142
+offsets:1,0,135,142
+rotate:90
+Eyeball1
+bounds:646,1950,95,100
+rotate:90
+Layer 14
+bounds:877,1739,188,216
+rotate:90
+Layer 14 copy
+bounds:659,1746,188,216
+rotate:90
+Layer 15
+bounds:265,1578,202,261
+offsets:0,0,202,262
+rotate:90
+Layer 15 copy
+bounds:2,1611,202,261
+offsets:0,0,202,262
+rotate:90
+Layer 17
+bounds:246,1311,274,265
+offsets:2,2,278,269
+Layer 18
+bounds:1266,1195,457,255
+offsets:3,3,463,261
+Layer 188
+bounds:522,1292,440,252
+offsets:3,3,446,257
+Layer 189
+bounds:1380,1920,142,125
+offsets:2,2,146,129
+Layer 190
+bounds:2,1370,239,242
+offsets:2,2,243,247
+rotate:90
+Layer 191
+bounds:1561,1452,248,237
+offsets:2,3,252,242
+Layer 192
+bounds:1324,1493,235,219
+offsets:2,2,240,223
+Layer 193
+bounds:1668,1894,179,151
+Layer 24
+bounds:148,1981,64,73
+offsets:2,2,68,78
+rotate:90
+Layer 24 copy
+bounds:86,1991,54,60
+offsets:2,3,58,66
+rotate:90
+Layer 25
+bounds:1095,1728,293,190
+offsets:2,2,297,194
+Layer 26 copy
+bounds:543,1955,90,101
+rotate:90
+Layer 27
+bounds:871,1936,109,120
+offsets:2,2,113,124
+rotate:90
+Layer 27 copy
+bounds:1617,1691,201,217
+offsets:2,3,205,223
+rotate:90
+Layer 40
+bounds:2,244,571,387
+offsets:5,3,582,398
+Layer 40 copy
+bounds:2,1050,443,259
+Layer 41
+bounds:2,705,362,343
+offsets:5,3,372,352
+Layer 41 copy
+bounds:1836,1654,233,209
+rotate:90
+Layer 42
+bounds:937,932,296,334
+offsets:5,5,307,346
+Layer 42 copy
+bounds:452,1782,166,205
+offsets:0,1,166,206
+rotate:90
+Layer 43
+bounds:1725,1045,285,301
+offsets:6,4,296,311
+rotate:90
+Layer 43 copy
+bounds:1849,1889,156,170
+rotate:90
+Layer 44 copy
+bounds:447,1012,488,278
+offsets:0,1,488,279
+Layer 52
+bounds:459,1963,82,82
+offsets:2,2,86,86
+Layer 54
+bounds:223,1977,68,106
+offsets:2,2,72,110
+rotate:90
+Layer 55
+bounds:2,2000,45,82
+offsets:2,2,50,86
+rotate:90
+Layer 56
+bounds:366,633,377,380
+offsets:5,6,388,391
+rotate:90
+Layer 56 copy
+bounds:748,1949,96,121
+offsets:2,2,100,125
+rotate:90
+Layer 56 copy 2
+bounds:993,1929,116,118
+offsets:2,2,123,123
+rotate:90
+Layer 58
+bounds:1811,1332,320,224
+offsets:4,8,329,237
+rotate:90
+Layer 61
+bounds:1238,1921,124,140
+offsets:2,3,128,145
+rotate:90
+Layer 61 copy 2
+bounds:1601,694,409,349
+offsets:2,3,413,354
+Layer 61 copy 2s
+bounds:1235,872,321,364
+offsets:2,4,325,370
+rotate:90
+Layer 62
+bounds:331,1975,70,126
+offsets:2,2,74,130
+rotate:90
+Layer 62 copy
+bounds:1390,1714,195,225
+offsets:2,3,200,231
+rotate:90
+Layer 63
+bounds:964,1268,276,300
+offsets:17,14,304,330
+rotate:90
+Layer 63 copy
+bounds:1113,1929,123,116
+offsets:9,8,140,132
+Layer 8
+bounds:2,1815,448,158
+offsets:2,2,452,162
+hand_L_electric
+bounds:1590,216,417,476
+offsets:8,9,434,494
+hand_R_electric
+bounds:575,105,417,476
+offsets:9,9,434,494
+rotate:90
+leg_L_electric
+bounds:748,524,406,419
+offsets:10,0,422,427
+rotate:90
+leg_R_electric
+bounds:1169,464,406,419
+offsets:6,0,422,427
+rotate:90
+
+huggy_2.png
+size:891,891
+filter:Linear,Linear
+pma:true
+Layer 44
+bounds:2,2,622,407
+offsets:4,6,631,418
+Layer 7
+bounds:2,411,672,478
+offsets:2,2,676,482
