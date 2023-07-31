@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddc288ee56768d9bdacabe3501a74d1d, type: 3}
+  m_Name: Vomit
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: 4e7b0265b0f67af4c8975200e9d12d28, type: 2}
+  - {fileID: 11400000, guid: ad4de7d9a3f78884cba92659602af247, type: 2}
+  - {fileID: 11400000, guid: b1b487f5a76af5645a3fe00d5479d3a4, type: 2}
+  - {fileID: 11400000, guid: 529690e3427b155499866bb1345f3fb7, type: 2}
+  - {fileID: 11400000, guid: 662edd8e9fbcf6f4abe1ced2a88de9e1, type: 2}
+  - {fileID: 11400000, guid: 92c65eeae98094f44aa87f17c4ce0242, type: 2}
+  - {fileID: 11400000, guid: 4644b8d7868fe2c44a2a376dca0a704a, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+    m_ScenePreview: 1
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: 091459ea7e31f8243966e5660a0addb1, type: 2}

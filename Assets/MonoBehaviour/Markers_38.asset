@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 872c8afcab9942aa205e6e8b92b097b6, type: 3}
+  m_Name: Markers
+  m_EditorClassIdentifier:
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename:
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 11400000, guid: 106a1997d01b07942b77823dd1072959, type: 2}
+  m_Children: []
+  m_Clips: []
+  m_Markers:
+    m_Objects:
+    - {fileID: 11400000, guid: 49785a4999ad95a4f93fc7eff8aae532, type: 2}
+    - {fileID: 11400000, guid: 1d8d026916a887340bfbdcba25633908, type: 2}
+    - {fileID: 11400000, guid: c37369a2a9ac9bd468f8b08ee7e7b3a2, type: 2}
+    - {fileID: 11400000, guid: 601ff855f77076d43a93bf4be262cbd3, type: 2}
+    - {fileID: 11400000, guid: e5ac999c32c96984f821db934d40cbcd, type: 2}
+    - {fileID: 11400000, guid: dc4f0223751520147b340d8dc580507e, type: 2}
+    - {fileID: 11400000, guid: 1d1bf89e50393c243bb6ff2a5a19a160, type: 2}
+    - {fileID: 11400000, guid: 2b86d91ca7b81624289bec37f3b63729, type: 2}
+    - {fileID: 11400000, guid: 4d9a29a259c4e28459e09a1de406512d, type: 2}
+    - {fileID: 11400000, guid: 4b571dd87680ddc4ca49bd065f2ee53c, type: 2}
+    - {fileID: 11400000, guid: fc2d208c2ac000a48a0e1646cc9424ef, type: 2}
+    - {fileID: 11400000, guid: 9d45e58605c61074d9b68dfad33a2c7f, type: 2}

@@ -9,42 +9,42 @@ Sprite:
   m_Name: Buddy_mimic_8_((((
   m_Rect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 68
-    height: 31
-  m_Offset: {x: 0, y: 0}
+    x: 8.012913
+    y: 9.07612
+    width: 75.98152
+    height: 35.847755
+  m_Offset: {x: -0.0036728987, y: 21.000006}
   m_Border: {x: 0, y: 0, z: 0, w: 0}
-  m_PixelsToUnits: 100
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_PixelsToUnits: 30
+  m_Pivot: {x: 0.49995166, y: 1.0858109}
   m_Extrude: 1
   m_IsPolygon: 0
   m_AtlasName:
   m_PackingTag:
   m_RenderDataKey:
-    3a35ac4d4e7ae4d4a913b330a58ccc72: 21300000
+    12081020c43831e45884e4daa16d2b08: 21300000
   m_AtlasTags: []
   m_SpriteAtlas: {fileID: 0}
   m_RD:
     serializedVersion: 3
-    texture: {fileID: 2800000, guid: 7336f8fa9b1b3c649be18ceb047f4542, type: 3}
+    texture: {fileID: 2800000, guid: 14b68744d64838f41b87f09cf527a1e0, type: 3}
     alphaTexture: {fileID: 0}
     secondaryTextures: []
     m_SubMeshes:
     - serializedVersion: 2
       firstByte: 0
-      indexCount: 6
+      indexCount: 18
       topology: 0
       baseVertex: 0
       firstVertex: 0
-      vertexCount: 4
+      vertexCount: 8
       localAABB:
         m_Center: {x: 0, y: 0, z: 0}
         m_Extent: {x: 0, y: 0, z: 0}
-    m_IndexBuffer: 000001000200020001000300
+    m_IndexBuffer: 070006000100050001000600040001000500030001000400000001000300020001000000
     m_VertexData:
       serializedVersion: 3
-      m_VertexCount: 4
+      m_VertexCount: 8
       m_Channels:
       - stream: 0
         offset: 0
@@ -102,19 +102,19 @@ Sprite:
         offset: 24
         format: 10
         dimension: 4
-      m_DataSize: 208
-      _typelessdata: 7b14aebe52b81e3e000000007b14ae3e52b81e3e000000007b14aebe52b81ebe000000007b14ae3e52b81ebe0000000000000000000000000000803f0000000000000000000000000000000000000000000000000000000000000000000000000000803f0000000000000000000000000000000000000000000000000000000000000000000000000000803f0000000000000000000000000000000000000000000000000000000000000000000000000000803f00000000000000000000000000000000000000000000000000000000
+      m_DataSize: 416
+      _typelessdata: bcbb3b3fcdcc4cbe000000002222a23f6666a6bf000000002222a23f898888bf000000000000003fcdccccbd00000000bcbbbbbecdccccbd00000000bcbb3bbfcdcc4cbe000000002222a2bf9a9999bf000000002222a2bf6666a6bf0000000000000000000000000000803f0000000000000000000000000000000000000000000000000000000000000000000000000000803f0000000000000000000000000000000000000000000000000000000000000000000000000000803f0000000000000000000000000000000000000000000000000000000000000000000000000000803f0000000000000000000000000000000000000000000000000000000000000000000000000000803f0000000000000000000000000000000000000000000000000000000000000000000000000000803f0000000000000000000000000000000000000000000000000000000000000000000000000000803f0000000000000000000000000000000000000000000000000000000000000000000000000000803f00000000000000000000000000000000000000000000000000000000
     m_Bindpose: []
     textureRect:
       serializedVersion: 2
-      x: 0
-      y: 0
-      width: 68
-      height: 31
+      x: 8.012913
+      y: 9.07612
+      width: 75.98152
+      height: 35.847755
     textureRectOffset: {x: 0, y: 0}
     atlasRectOffset: {x: -1, y: -1}
     settingsRaw: 64
-    uvTransform: {x: 100, y: 34, z: 100, w: 15.5}
+    uvTransform: {x: 30, y: 46, z: 30, w: 48}
     downscaleMultiplier: 1
   m_AtlasRD:
     serializedVersion: 3
@@ -142,12 +142,14 @@ Sprite:
     uvTransform: {x: 0, y: 0, z: 0, w: 0}
     downscaleMultiplier: 0
   m_PhysicsShape:
-  - - {x: -0.14, y: 0.155}
-    - {x: -0.26, y: 0.114999995}
-    - {x: -0.26, y: -0.105}
-    - {x: -0.24, y: -0.114999995}
-    - {x: 0.26, y: -0.114999995}
-    - {x: 0.26, y: 0.114999995}
-    - {x: 0.22999999, y: 0.155}
+  - - {x: -0.26666668, y: -0.16666667}
+    - {x: -0.6666667, y: -0.23333335}
+    - {x: -0.86666673, y: -0.6}
+    - {x: -0.86666673, y: -0.9333334}
+    - {x: -0.6666667, y: -1.0666667}
+    - {x: 0.8333334, y: -1.0666667}
+    - {x: 0.86666673, y: -0.9666667}
+    - {x: 0.86666673, y: -0.40000004}
+    - {x: 0.5, y: -0.16666667}
   m_Bones: []
   m_SpriteID:

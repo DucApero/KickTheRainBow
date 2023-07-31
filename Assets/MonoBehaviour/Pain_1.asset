@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddc288ee56768d9bdacabe3501a74d1d, type: 3}
+  m_Name: Pain_1
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: 333cf6a5ba2358b478caaa25f563935f, type: 2}
+  - {fileID: 11400000, guid: 426ea33f1fb2f7e4e8d35ad04f3dc4e1, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+    m_ScenePreview: 1
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: 6bbef6abbab327144acafbc145758daa, type: 2}

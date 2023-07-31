@@ -5,6 +5,7 @@ using UnityEngine;
 public class MonsterController : MonoBehaviour
 {
     public GameObject[] bodyParts;
+    public List<GameObject> lstTfBodyPart = new List<GameObject>();
 
     public static MonsterController Instance { get; set; }
 

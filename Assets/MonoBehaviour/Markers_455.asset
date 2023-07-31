@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 872c8afcab9942aa205e6e8b92b097b6, type: 3}
+  m_Name: Markers
+  m_EditorClassIdentifier:
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename:
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 11400000, guid: 2c04e6b4e83453f408ef46e5c383e0ae, type: 2}
+  m_Children: []
+  m_Clips: []
+  m_Markers:
+    m_Objects:
+    - {fileID: 11400000, guid: 5ce92fa158dc0ad4cbabdf876541d2f9, type: 2}
+    - {fileID: 11400000, guid: 656aaa1287ff6594abc3d8dcf6a22bf6, type: 2}
+    - {fileID: 11400000, guid: 86417eb139160d3498946beb6e3226d5, type: 2}
+    - {fileID: 11400000, guid: 3b22b9d87241f204d851be27da91618c, type: 2}
+    - {fileID: 11400000, guid: 294f8f0367b080b459bcfc762ce415de, type: 2}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddc288ee56768d9bdacabe3501a74d1d, type: 3}
+  m_Name: RainBowAxeVomit
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: 0897bb82d314c4745a9452fc54703b17, type: 2}
+  - {fileID: 11400000, guid: b995a4f57db53074b8b452da475b1db3, type: 2}
+  - {fileID: 11400000, guid: 63745f2346313e842a868ef9ac38f440, type: 2}
+  - {fileID: 11400000, guid: d0e1c4409236dd9429ca612d7d49d9b3, type: 2}
+  - {fileID: 11400000, guid: 7e0e322a60258a546b89bfcb7954f752, type: 2}
+  - {fileID: 11400000, guid: 182fdecc4ba015e458ce60b908f0d899, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+    m_ScenePreview: 1
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: 8c2e3c4e7f9090c4791dfed7328e389a, type: 2}

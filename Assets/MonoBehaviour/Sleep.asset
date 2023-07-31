@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddc288ee56768d9bdacabe3501a74d1d, type: 3}
+  m_Name: Sleep
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: 8c01ef53b4139c547bee1b919892c14e, type: 2}
+  - {fileID: 11400000, guid: 258f98fc3ea0b294e8764077dc1a2afd, type: 2}
+  - {fileID: 11400000, guid: 65a086a80376d6c4781636f72183c2f1, type: 2}
+  - {fileID: 11400000, guid: 484b813093944de4aba06bcb9ee6af59, type: 2}
+  - {fileID: 11400000, guid: b4ecb3d122c59c4419544cf82ba85e8e, type: 2}
+  - {fileID: 11400000, guid: 636b0399f48929b45ad20d75c10a79dd, type: 2}
+  m_FixedDuration: 7.166666666666667
+  m_EditorSettings:
+    m_Framerate: 60
+    m_ScenePreview: 1
+  m_DurationMode: 1
+  m_MarkerTrack: {fileID: 11400000, guid: 2a550ffead8d49f4eb3c5c015532343d, type: 2}
