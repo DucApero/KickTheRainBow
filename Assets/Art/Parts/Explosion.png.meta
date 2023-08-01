@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: bc759c340a208d348993c5fc8792684d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: png-clipart-assorted-icons-illustration-animation-sprite-explosion-cartoon-drawing-colour-explosion-2d-computer-graphics-tutorial-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387
+        width: 156
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289dd9d05d3beaf4eab604e05d1cb9a7
+      internalID: 80895004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-assorted-icons-illustration-animation-sprite-explosion-cartoon-drawing-colour-explosion-2d-computer-graphics-tutorial-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 387
+        width: 156
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f775a54fd6f66f243abcb6bd7f827edc
+      internalID: -1110094570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-assorted-icons-illustration-animation-sprite-explosion-cartoon-drawing-colour-explosion-2d-computer-graphics-tutorial-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 387
+        width: 156
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad9b967b59f9d341b4bc432a444221a
+      internalID: -765461423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-assorted-icons-illustration-animation-sprite-explosion-cartoon-drawing-colour-explosion-2d-computer-graphics-tutorial-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 156
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573d62cec82224c4080f7c15a30c76c3
+      internalID: 1389676223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-assorted-icons-illustration-animation-sprite-explosion-cartoon-drawing-colour-explosion-2d-computer-graphics-tutorial-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 261
+        width: 156
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e29e50350193944d913b64bb0c2e78d
+      internalID: -1043646658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-assorted-icons-illustration-animation-sprite-explosion-cartoon-drawing-colour-explosion-2d-computer-graphics-tutorial-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 261
+        width: 156
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34686d642f82c8a4892981e6923e391a
+      internalID: -807829540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-assorted-icons-illustration-animation-sprite-explosion-cartoon-drawing-colour-explosion-2d-computer-graphics-tutorial-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 156
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dc3fd6cf5a7114aada5d2c5d918504
+      internalID: 439335722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-assorted-icons-illustration-animation-sprite-explosion-cartoon-drawing-colour-explosion-2d-computer-graphics-tutorial-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 135
+        width: 156
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe086cbc0139da6469692da13edac815
+      internalID: 880060526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-assorted-icons-illustration-animation-sprite-explosion-cartoon-drawing-colour-explosion-2d-computer-graphics-tutorial-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 135
+        width: 156
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e45a34773871443900d6f78b8291a9
+      internalID: 615255788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-assorted-icons-illustration-animation-sprite-explosion-cartoon-drawing-colour-explosion-2d-computer-graphics-tutorial-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 156
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927932db678556b488e28f9aa6b5622d
+      internalID: 531925673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-assorted-icons-illustration-animation-sprite-explosion-cartoon-drawing-colour-explosion-2d-computer-graphics-tutorial-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 9
+        width: 156
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a273d28153b32842818dd4e247ad9b8
+      internalID: -1434524492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-assorted-icons-illustration-animation-sprite-explosion-cartoon-drawing-colour-explosion-2d-computer-graphics-tutorial-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 9
+        width: 156
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9422a6eaa41914186fd671890c0ecf
+      internalID: 1372853677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      png-clipart-assorted-icons-illustration-animation-sprite-explosion-cartoon-drawing-colour-explosion-2d-computer-graphics-tutorial-removebg-preview_0: 80895004
+      png-clipart-assorted-icons-illustration-animation-sprite-explosion-cartoon-drawing-colour-explosion-2d-computer-graphics-tutorial-removebg-preview_1: -1110094570
+      png-clipart-assorted-icons-illustration-animation-sprite-explosion-cartoon-drawing-colour-explosion-2d-computer-graphics-tutorial-removebg-preview_10: -1434524492
+      png-clipart-assorted-icons-illustration-animation-sprite-explosion-cartoon-drawing-colour-explosion-2d-computer-graphics-tutorial-removebg-preview_11: 1372853677
+      png-clipart-assorted-icons-illustration-animation-sprite-explosion-cartoon-drawing-colour-explosion-2d-computer-graphics-tutorial-removebg-preview_2: -765461423
+      png-clipart-assorted-icons-illustration-animation-sprite-explosion-cartoon-drawing-colour-explosion-2d-computer-graphics-tutorial-removebg-preview_3: 1389676223
+      png-clipart-assorted-icons-illustration-animation-sprite-explosion-cartoon-drawing-colour-explosion-2d-computer-graphics-tutorial-removebg-preview_4: -1043646658
+      png-clipart-assorted-icons-illustration-animation-sprite-explosion-cartoon-drawing-colour-explosion-2d-computer-graphics-tutorial-removebg-preview_5: -807829540
+      png-clipart-assorted-icons-illustration-animation-sprite-explosion-cartoon-drawing-colour-explosion-2d-computer-graphics-tutorial-removebg-preview_6: 439335722
+      png-clipart-assorted-icons-illustration-animation-sprite-explosion-cartoon-drawing-colour-explosion-2d-computer-graphics-tutorial-removebg-preview_7: 880060526
+      png-clipart-assorted-icons-illustration-animation-sprite-explosion-cartoon-drawing-colour-explosion-2d-computer-graphics-tutorial-removebg-preview_8: 615255788
+      png-clipart-assorted-icons-illustration-animation-sprite-explosion-cartoon-drawing-colour-explosion-2d-computer-graphics-tutorial-removebg-preview_9: 531925673
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

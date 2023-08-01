@@ -234,7 +234,7 @@ public class DragRigidbodyBetter : MonoBehaviour
         
         //Distance = distance;
 
-        if (Distance > 5) return null;
+        if (Distance > 3) return null;
         /*currentObstacle = lstTfBodyPart[indexTf].gameObject.GetComponent<Obstacle>();
         if (currentObstacle != null)
         {
